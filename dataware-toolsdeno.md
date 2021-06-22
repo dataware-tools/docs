@@ -17,9 +17,7 @@ $$
 
 という内包関係が成り立つものとする
 
-![4&#x3064;&#x306E;&#x6982;&#x5FF5;&#x306E;&#x5185;&#x5305;&#x95A2;&#x4FC2;](.gitbook/assets/core-concepts.png)
-
-
+![4&#x3064;&#x306E;&#x6982;&#x5FF5;&#x306E;&#x5185;&#x5305;&#x95A2;&#x4FC2;](.gitbook/assets/concepts.png)
 
 Dataware-tools では、これらのメタ情報をNoSQLデータベースに格納しているが、NoSQLデータベース上でのデータの単位と上記の単位は以下のような関係になっている。
 
