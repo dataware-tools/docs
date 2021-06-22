@@ -2,6 +2,7 @@
 
 * [Dataware-toolsとは？](README.md)
 * [Dataware-toolsでの概念](dataware-toolsdeno.md)
+* [データの流れ](dtanore.md)
 
 ## Dataware-toolsを使ってみる <a id="getting-started"></a>
 
