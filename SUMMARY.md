@@ -1,16 +1,21 @@
 # Table of contents
 
-* [Dataware-tools](README.md)
+* [About Dataware-tools](README.md)
+* [Core Concepts](core-concepts.md)
 
-## Deployment
+## Getting Started
 
-* [Deployment](deployment/deployment.md)
+* [Installation](getting-started/deployment.md)
 
-## Web applications
+## Administrator Guide
 
-* [Web applications](web-applications/web-applications.md)
+* [Users and Login Methods](administrator-guide/web-applications.md)
+* [Roles and Permissions](administrator-guide/roles-and-permissions.md)
+* [Database Management](administrator-guide/database-management.md)
+* [Metadata Management](administrator-guide/metadata-management.md)
 
-## Python toolkit
+## User Guide
 
-* [Python toolkit](python-toolkit/python-toolkit.md)
+* [Browse data](user-guide/python-toolkit.md)
+* [Register new data](user-guide/register-new-data.md)
 
