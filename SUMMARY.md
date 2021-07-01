@@ -13,7 +13,6 @@
 
 * [ユーザの権限管理](administrator-guide/python-tsrukitto.md)
 * [データベースの管理](administrator-guide/dtabsuno.md)
-* [メタ情報の管理](administrator-guide/metano.md)
 
 ## 記入者向けガイド
 
