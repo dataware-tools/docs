@@ -50,3 +50,11 @@ $$
 {\rm write} \supset {\rm add}, \ \ \ {\rm write} \supset {\rm update}, \ \ \ {\rm write} \supset {\rm delete}
 $$
 
+## ユーザへの Role の割り当て
+
+上記で作成した Role をユーザに割り当てるには、 User Manager において
+
+![](../.gitbook/assets/sukurnshotto-2021-07-01-180504png.png)
+
+① "Users" パネルに移動し、② ユーザに対する Role を指定した後、 ③ "Save" ボタンをクリックします。
+
