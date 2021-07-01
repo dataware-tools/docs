@@ -11,8 +11,7 @@
 
 ## 管理者向けガイド <a id="administrator-guide"></a>
 
-* [ユーザの管理](administrator-guide/python-tsrukitto.md)
-* [権限の管理](administrator-guide/no.md)
+* [ユーザの権限管理](administrator-guide/python-tsrukitto.md)
 * [データベースの管理](administrator-guide/dtabsuno.md)
 * [メタ情報の管理](administrator-guide/metano.md)
 
