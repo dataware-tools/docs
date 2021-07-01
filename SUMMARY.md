@@ -15,8 +15,13 @@
 * [データベースの管理](administrator-guide/dtabsuno.md)
 * [メタ情報の管理](administrator-guide/metano.md)
 
-## 利用者向けガイド <a id="user-guide"></a>
+## 記入者向けガイド
 
-* [データの閲覧](user-guide/webuapurikshon.md)
-* [データの登録](user-guide/dtano.md)
+* [レコードの追加と編集](kegaido/add-record.md)
+* [ファイルの追加と編集](kegaido/fairunoto.md)
+
+## 閲覧者向けガイド <a id="viewer-guide"></a>
+
+* [データの閲覧](viewer-guide/webuapurikshon.md)
+* [メタデータの出力](viewer-guide/export-metadata.md)
 
