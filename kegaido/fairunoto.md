@@ -16,7 +16,7 @@
 
 ![](../.gitbook/assets/Edit-record-start-adding-file.png)
 
-"ADD FILE" をクリックします
+"ADD FILE" をクリックします  
 確認画面で同意するとファイルを追加することが出来ます
 
 ## ファイルの削除
@@ -35,5 +35,5 @@
 
 ![](../.gitbook/assets/Delete-file-delete-file.png)
 
-削除したいファイルを選択して，"Delete" をクリックします
+削除したいファイルを選択して，"Delete" をクリックします  
 確認画面で同意するとファイルを削除することが出来ます
