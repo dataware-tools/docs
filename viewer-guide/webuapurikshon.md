@@ -10,7 +10,7 @@
 
 情報を閲覧したいレコードの存在するデータベースを開きます
 
-![](../.gitbook/assets/Edit-record-click-record.png)
+![](../.gitbook/assets/Edit-record-click-record%20%282%29.png)
 
 情報を閲覧したいレコードを選択します
 
@@ -32,7 +32,7 @@
 
 プレビューしたいファイルの存在するレコードを選択します
 
-![](../.gitbook/assets/View-metadata-click-file-tab.png)
+![](../.gitbook/assets/View-metadata-click-file-tab%20%281%29.png)
 
 "FILES" タブを選択します
 
@@ -50,7 +50,7 @@
 
 ダウンロードしたいファイルの存在するデータベースを開きます
 
-![](../.gitbook/assets/Edit-record-click-record.png)
+![](../.gitbook/assets/Edit-record-click-record%20%281%29.png)
 
 ダウンロードしたいファイルの存在するレコードを選択します
 
@@ -61,3 +61,4 @@
 ![](../.gitbook/assets/View-metadata-download-file.png)
 
 ダウンロードしたいファイルを選択して，"Download" をクリックすると，ファイルをダウンロードできます
+

@@ -17,3 +17,4 @@
 ![](../.gitbook/assets/Export-metadata-export.png)
 
 ファイルフォーマットを選択して "EXPORT" を選択すると，メタデータがエクスポートされます
+
