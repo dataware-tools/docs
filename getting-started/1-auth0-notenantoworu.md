@@ -43,7 +43,7 @@ Name に "dataware-tools" と入力し、"Single Page Web Applications" を選�
 
 下の方にスクロールし、以下の項目を設定します
 
-* Allowed Callback URLs: `https://<dataware-toolsのデプロイ先URL>/callbacks`
+* Allowed Callback URLs: `https://<dataware-toolsのデプロイ先URL>,https://<dataware-toolsのデプロイ先URL>/callbacks`
 * Allowed Logout URLs: `https://<dataware-toolsのデプロイ先URL>/`
 * Allowed Web Origins: `https://<dataware-toolsのデプロイ先URL>/`
 * Allowed Origins \(CORS\): `https://<dataware-toolsのデプロイ先URL>/`
