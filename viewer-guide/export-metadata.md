@@ -2,7 +2,7 @@
 
 ## メタデータの一括出力
 
-![](../.gitbook/assets/sukurnshotto-2021-07-01-191954png.png)
+![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
 
 "Data Browser" を開きます
 
@@ -17,4 +17,3 @@
 ![](../.gitbook/assets/Export-metadata-export.png)
 
 ファイルフォーマットを選択して "EXPORT" を選択すると，メタデータがエクスポートされます
-

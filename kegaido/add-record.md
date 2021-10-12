@@ -2,7 +2,7 @@
 
 ## レコードの追加
 
-![](../.gitbook/assets/sukurnshotto-2021-07-01-191954png.png)
+![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
 
 "Data Browser" を開きます
 
@@ -20,7 +20,7 @@
 
 ## レコードの更新
 
-![](../.gitbook/assets/sukurnshotto-2021-07-01-191954png.png)
+![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
 
 "Data Browser" を開きます
 
@@ -28,7 +28,7 @@
 
 編集したいレコードがあるデータベースを開きます
 
-![](../.gitbook/assets/Edit-record-click-record.png)
+![](<../.gitbook/assets/Edit-record-click-record (1).png>)
 
 編集したいレコードを選択します
 
@@ -42,7 +42,7 @@
 
 ## レコードの削除
 
-![](../.gitbook/assets/sukurnshotto-2021-07-01-191954png.png)
+![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
 
 "Data Browser" を開きます
 
@@ -52,6 +52,5 @@
 
 ![](../.gitbook/assets/Delete-record-delete-record.png)
 
-削除したいレコード右側にあるゴミ箱ボタンをクリックします  
+削除したいレコード右側にあるゴミ箱ボタンをクリックします\
 確認画面で同意するとレコードを削除することが出来ます
-
