@@ -2,7 +2,7 @@
 
 ## メタデータの一括出力
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 

@@ -2,7 +2,7 @@
 
 ## レコードの詳細情報の閲覧
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
@@ -22,7 +22,7 @@
 
 ## ファイルのプレビュー
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
@@ -44,9 +44,29 @@
 
 なお，この操作を行うには `Read file` の権限が必要です
 
+### プレビューできる拡張子一覧
+
+以下の拡張子のプレビューがサポートされています
+
+* `.txt`
+* `.md`
+* `.csv`
+* `.wav`
+* `.mp3`
+* `.mp4`
+* `.js`, `.jsx`, `.ts`, `.tsx`
+* `.py`
+* `.sh`
+* `.json`
+* `.yml`, `.yaml`
+* `.jpg` ,`.jpeg`
+* `.png`
+* `.gif`
+* `.bag`
+
 ## ファイルのダウンロード
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 

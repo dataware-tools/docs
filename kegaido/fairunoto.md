@@ -2,7 +2,7 @@
 
 ## ファイルの追加
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
@@ -17,13 +17,13 @@
 ![](../.gitbook/assets/Edit-record-start-adding-file.png)
 
 "ADD FILE" をクリックします\
-確認画面で同意するとファイルを追加することが出来ます
+ファイルを選択して，確認画面で同意するとファイルを追加することが出来ます
 
 なお，この操作を行うには`Add file` の権限が必要です
 
 ## ファイルの削除
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 

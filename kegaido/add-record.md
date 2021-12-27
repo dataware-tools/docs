@@ -2,7 +2,7 @@
 
 ## レコードの追加
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
@@ -22,17 +22,17 @@
 
 ## レコードの更新
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
 ![](../.gitbook/assets/Add-record-click-database.png)
 
-編集したいレコードがあるデータベースを開きます
+更新したいレコードがあるデータベースを開きます
 
 ![](<../.gitbook/assets/Edit-record-click-record (1).png>)
 
-編集したいレコードを選択します
+更新したいレコードを選択します
 
 ![](../.gitbook/assets/Edit-record-start-editing.png)
 
@@ -46,7 +46,7 @@
 
 ## レコードの削除
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 

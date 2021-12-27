@@ -10,13 +10,13 @@ Dataware-tools のウェブアプリでは、[Role Based Access Control (RBAC)](
 
 ## Role の作成
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.20.04.png>)
+![](<../.gitbook/assets/image (15).png>)
 
 "User manager" を開きます
 
 ![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.14.57.png>)
 
-"Role" パネルに移動し、 "Add Role" をクリックします
+"Roles" タブに移動し、 "Add Role" をクリックします
 
 ![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.16.45.png>)
 
@@ -25,12 +25,12 @@ Dataware-tools のウェブアプリでは、[Role Based Access Control (RBAC)](
 
 ![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.22.56.png>)
 
-ここでは、①で権限を適用する対象のデータベース名を、②で権限の内容を指定します。\
+ここでは、①で権限を適用する対象のデータベースIDを、②で権限の内容を指定します。\
 なお、この欄は任意の数だけ増やすことができます。
 
 ![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.17.12.png>)
 
-①でデータベース名を指定する際、ワイルドカード (`*`) を使用することができます。\
+①でデータベースIFを指定する際、ワイルドカード (`*`) を使用することができます。\
 例えば上の画像の例の場合、`test-abc` や `test-1` など `test-` で始まるデータベースが対象になります。
 
 ![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.31.08.png>)
@@ -50,10 +50,23 @@ $$
 {\rm write} \supset {\rm add}, \ \ \ {\rm write} \supset {\rm update}, \ \ \ {\rm write} \supset {\rm delete}
 $$
 
+
+
 ## ユーザへの Role の割り当て
 
 上記で作成した Role をユーザに割り当てるには、 User Manager において
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../.gitbook/assets/image (23) (1).png>)
 
-① "Users" パネルに移動し、② ユーザに対する Role を指定します。
+① "Users" タブに移動し、② ユーザに対する Role を指定します。
+
+## Roleの削除
+
+作成した Role を削除するには、UserManagerにおいて
+
+![](<../.gitbook/assets/image (21).png>)
+
+① "Roles"タブに移動し、②削除したいRole の右側にあるゴミ箱ボタンを押します。
+
+その後、確認画面で同意するとレコードを削除することが出来ます。
+

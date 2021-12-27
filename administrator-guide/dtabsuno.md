@@ -2,7 +2,7 @@
 
 ## データベースの作成
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 19.19.54.png>)
+![](<../.gitbook/assets/image (17).png>)
 
 "Data Browser" を開きます
 
@@ -10,7 +10,7 @@
 
 右上の "+ Database" ボタンをクリックし、
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 18.12.05.png>)
+![](<../.gitbook/assets/image (34).png>)
 
 必要な情報を入力した後、 "Save" をクリックすることで新しいデータベースを作成することができます。
 
@@ -24,7 +24,7 @@
 
 Data Browser で，情報を更新したいデータベースを選択します
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../.gitbook/assets/image (15) (1).png>)
 
 右上のメニューから，"Update database info" を選択します
 
@@ -52,42 +52,47 @@ Data Browser で，設定を更新したいデータベースを選択します
 
 ### 入力設定の変更
 
-![](<../.gitbook/assets/image (13).png>)
+![](<../.gitbook/assets/image (2).png>)
 
 "INPUT FIELDS" タブからは，入力設定を編集できます
 
 #### 入力項目の追加
 
-![](<../.gitbook/assets/image (8).png>)
+![](<../.gitbook/assets/image (4).png>)
 
 ”＋”ボタンをクリックすると，入力項目を追加できます
 
-![](<../.gitbook/assets/image (5).png>)
+![](<../.gitbook/assets/image (3).png>)
 
 以下の項目を入力して "ADD" をクリックすると入力項目が追加されます
 
-* Name: 新しい入力項目の名前です．データベース上ではこの値を項目の名前として扱っています．
+* Name: 新しい入力項目の名前です．データベース上ではこの値を識別子として扱っています．
 * Display name: 新しい入力項目の，DataBrowser上での表示名です．
+* Data type: 新しい入力項目の型です．どの値をとるかで，Data Browserからレコードを追加する時の挙動が変化します．
+  * String: プレーンな入力欄に，任意の文字列が入力できるようになります．
+  * Number: 昇降ボタンのついた入力欄に，数値のみを入力できるようになります．
+  * Date: デートピッカーのついた入力欄に，日時のみを入力できるようになります．
 * Necessity: 新しい入力項目の入力が必須であるかを決める値です．どの値をとるかで，DataBrowserからレコードを追加する時の挙動が変化します．
   * Required: この項目が未入力だとデータベースにレコードを追加できません．
-  * Recommended:この項目が未入力だと，未入力のままでいいか確認が出ます．
+  * Recommended:この項目が未入力だと，未入力のままで良いか確認が出ます．
   * Optional: この項目が未入力でも何も起こりません．
+* Visibility: 新しい入力項目が公開された値かどうかを決める値です．チェックを入れると， `Read public` の権限のみを持つユーザーにはこの項目は表示されなくなります．
 
 #### 入力項目の削除
 
-![](<../.gitbook/assets/image (11).png>)
+![](<../.gitbook/assets/image (35).png>)
 
 入力項目右側のごみ箱アイコンをクリックすると入力項目を削除できます
 
 #### 入力項目の編集
 
-![](<../.gitbook/assets/image (4).png>)
+![](../.gitbook/assets/DandD.gif)
 
-入力項目左側のアイコンをドラッグすると入力項目の順番を入れ替えることが出来ます
+入力項目をドラッグすると入力項目の順番を入れ替えることが出来ます
 
-![](<../.gitbook/assets/image (17).png>)
+![](<../.gitbook/assets/image (32).png>)
 
-入力項目右側のセレクタから，その入力項目の`Necessity` を変更できます
+入力項目右側の歯車アイコンをクリックすると，入力項目の設定を変更できます
 
 ### 表示設定の変更
 
@@ -105,11 +110,11 @@ Data Browser で，設定を更新したいデータベースを選択します
 
 項目名右側にあるごみ箱アイコンをクリックすると，項目を削除できます
 
-![](<../.gitbook/assets/image (1).png>)
+![](<../.gitbook/assets/image (1) (1).png>)
 
 項目名をクリックすると，その項目を変更できます
 
-![](<../.gitbook/assets/image (12).png>)
+![](<../.gitbook/assets/image (12) (1).png>)
 
 項目名左側のアイコンをドラッグすると順番を変更できます
 
@@ -117,4 +122,4 @@ Data Browser で，設定を更新したいデータベースを選択します
 
 ![](<../.gitbook/assets/image (18).png>)
 
-"Record title" 下の項目名から変更できます
+"Record title" 下の項目名をクリックすると，レコード詳細画面のタイトルに表示される項目を変更できます
