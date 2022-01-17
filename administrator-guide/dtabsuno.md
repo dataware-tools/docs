@@ -22,7 +22,7 @@
 
 ![](<../.gitbook/assets/image (31).png>)
 
-Data Browser で，情報を更新したいデータベースを選択します
+Data Browser で，更新したいデータベースを選択します
 
 ![](<../.gitbook/assets/image (15) (1).png>)
 
