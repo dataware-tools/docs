@@ -10,30 +10,30 @@ Dataware-tools のウェブアプリでは、[Role Based Access Control (RBAC)](
 
 ## Role の作成
 
-![](<../.gitbook/assets/image (15).png>)
+![](<../../../.gitbook/assets/image (15).png>)
 
 "User manager" を開きます
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.14.57.png>)
+![](<../../../.gitbook/assets/スクリーンショット 2021-07-01 17.14.57.png>)
 
 "Roles" タブに移動し、 "Add Role" をクリックします
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.16.45.png>)
+![](<../../../.gitbook/assets/スクリーンショット 2021-07-01 17.16.45.png>)
 
 ①に Role の名前、②に説明文を入力します。\
 その後、③のボタンをクリックします。
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.22.56.png>)
+![](<../../../.gitbook/assets/スクリーンショット 2021-07-01 17.22.56.png>)
 
 ここでは、①Databasesで権限を適用する対象のデータベースIDを、②Actionsで権限の内容を指定します。\
 この欄は必要に応じて追加することができます。
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.17.12.png>)
+![](<../../../.gitbook/assets/スクリーンショット 2021-07-01 17.17.12.png>)
 
 データベースIDには、ワイルドカード (`*`) を使用することができます。\
 例えば上の画像の例の場合、`test-abc` や `test-1` など `test-` で始まるデータベースが対象になります。
 
-![](<../.gitbook/assets/スクリーンショット 2021-07-01 17.31.08.png>)
+![](<../../../.gitbook/assets/スクリーンショット 2021-07-01 17.31.08.png>)
 
 ②Actionsでは該当のデータベースで許可する操作を指定します。\
 なお、Actions には以下の内包関係が存在しています。
@@ -56,7 +56,7 @@ $$
 
 上記で作成した Role をユーザに割り当てるには、 User Manager において
 
-![](<../.gitbook/assets/image (23) (1).png>)
+![](<../../../.gitbook/assets/image (23) (1).png>)
 
 ① "Users" タブに移動し、② ユーザに対する Role を指定します。
 
@@ -64,7 +64,7 @@ $$
 
 作成した Role を削除するには、UserManagerにおいて
 
-![](<../.gitbook/assets/image (21).png>)
+![](<../../../.gitbook/assets/image (21).png>)
 
 ① "Roles"タブに移動し、②削除したいRole の右側にあるゴミ箱ボタンを押します。
 

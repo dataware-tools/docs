@@ -2,19 +2,19 @@
 
 ## ファイルの追加
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
-![](../.gitbook/assets/Add-record-click-database.png)
+![](../../../.gitbook/assets/Add-record-click-database.png)
 
 ファイルを追加したいレコードがあるデータベースを開きます
 
-![](<../.gitbook/assets/Edit-record-click-record (1).png>)
+![](<../../../.gitbook/assets/Edit-record-click-record (1).png>)
 
 ファイルを追加したいレコードを選択します
 
-![](../.gitbook/assets/Edit-record-start-adding-file.png)
+![](../../../.gitbook/assets/Edit-record-start-adding-file.png)
 
 "ADD FILE" をクリックします\
 ファイルを選択して，確認画面で同意するとファイルを追加することが出来ます
@@ -23,19 +23,19 @@
 
 ## ファイルの削除
 
-![](<../.gitbook/assets/image (23).png>)
+![](<../../../.gitbook/assets/image (23).png>)
 
 "Data Browser" を開きます
 
-![](../.gitbook/assets/Add-record-click-database.png)
+![](../../../.gitbook/assets/Add-record-click-database.png)
 
 ファイルを削除したいレコードがあるデータベースを開きます
 
-![](<../.gitbook/assets/Edit-record-click-record (1).png>)
+![](<../../../.gitbook/assets/Edit-record-click-record (1).png>)
 
 ファイルを削除したいレコードを選択します
 
-![](../.gitbook/assets/Delete-file-delete-file.png)
+![](../../../.gitbook/assets/Delete-file-delete-file.png)
 
 削除したいファイルを選択して，"Delete" をクリックします\
 確認画面で同意するとファイルを削除することが出来ます

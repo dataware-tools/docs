@@ -17,7 +17,7 @@ $$
 
 という内包関係が成り立つものとします
 
-![](.gitbook/assets/concepts.png)
+![](../../.gitbook/assets/concepts.png)
 
 Dataware-tools では、これらのメタ情報をNoSQLデータベースに格納していますが、NoSQLデータベース上でのデータの単位と上記の単位は以下のような関係になっています。
 

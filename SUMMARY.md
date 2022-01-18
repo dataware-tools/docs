@@ -1,26 +1,22 @@
 # Table of contents
 
 * [Dataware-toolsとは？](README.md)
-* [Dataware-toolsでの概念](dataware-toolsdeno.md)
-* [データの流れ](dtanore.md)
 
-## Dataware-toolsを使ってみる <a id="getting-started"></a>
+## マニュアル
 
-* [1. Auth0 のテナントを作る](getting-started/1-auth0-notenantoworu.md)
-* [2. Dataware-tools のデプロイ](getting-started/depuroimento.md)
-
-## 管理者向けガイド <a id="administrator-guide"></a>
-
-* [ユーザの権限管理](administrator-guide/python-tsrukitto.md)
-* [データベースの管理](administrator-guide/dtabsuno.md)
-
-## 記入者向けガイド
-
-* [レコードの追加と編集](kegaido/add-record.md)
-* [ファイルの追加と編集](kegaido/fairunoto.md)
-
-## 閲覧者向けガイド <a id="viewer-guide"></a>
-
-* [データの閲覧](viewer-guide/webuapurikshon.md)
-* [メタデータの出力](viewer-guide/export-metadata.md)
-
+* [管理者向けマニュアル](manyuaru/kemanyuaru/README.md)
+  * [Dataware-toolsでの概念](manyuaru/kemanyuaru/dataware-toolsdeno.md)
+  * [データの流れ](manyuaru/kemanyuaru/dtanore.md)
+  * [インストールガイド](manyuaru/kemanyuaru/insutrugaido/README.md)
+    * [1. Auth0 のテナントを作る](manyuaru/kemanyuaru/insutrugaido/1-auth0-notenantoworu.md)
+    * [2. Dataware-tools のデプロイ](manyuaru/kemanyuaru/insutrugaido/depuroimento.md)
+  * [メンテナンスガイド](manyuaru/kemanyuaru/mentenansugaido/README.md)
+    * [ユーザの権限管理](manyuaru/kemanyuaru/mentenansugaido/python-tsrukitto.md)
+    * [データベースの管理](manyuaru/kemanyuaru/mentenansugaido/dtabsuno.md)
+* [ユーザマニュアル](manyuaru/yzamanyuaru/README.md)
+  * [Webアプリケーション](manyuaru/yzamanyuaru/webapurikshon/README.md)
+    * [レコードの追加と編集](manyuaru/yzamanyuaru/webapurikshon/add-record.md)
+    * [ファイルの追加と編集](manyuaru/yzamanyuaru/webapurikshon/fairunoto.md)
+    * [データの閲覧](manyuaru/yzamanyuaru/webapurikshon/webuapurikshon.md)
+    * [メタデータの出力](manyuaru/yzamanyuaru/webapurikshon/export-metadata.md)
+  * [Pythonツールキット](manyuaru/yzamanyuaru/pythontsrukitto.md)
