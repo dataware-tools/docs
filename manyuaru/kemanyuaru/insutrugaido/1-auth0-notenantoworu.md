@@ -43,10 +43,10 @@ Name に "dataware-tools" と入力し、"Single Page Web Applications" を選�
 
 下の方にスクロールし、以下の項目を設定します
 
-* Allowed Callback URLs: `https://<dataware-toolsのデプロイ先URL>,https://<dataware-toolsのデプロイ先URL>/callbacks`
-* Allowed Logout URLs: `https://<dataware-toolsのデプロイ先URL>/`
-* Allowed Web Origins: `https://<dataware-toolsのデプロイ先URL>/`
-* Allowed Origins (CORS): `https://<dataware-toolsのデプロイ先URL>/`
+* Allowed Callback URLs: `https://<dataware-toolsのデプロイ先のドメイン名>,https://<dataware-toolsのデプロイ先のドメイン名>/callbacks`
+* Allowed Logout URLs: `https://<dataware-toolsのデプロイ先のドメイン名>/`
+* Allowed Web Origins: `https://<dataware-toolsのデプロイ先のドメイン名>/`
+* Allowed Origins (CORS): `https://<dataware-toolsのデプロイ先のドメイン名>/`
 
 ![](../../../.gitbook/assets/\_2021-06-21\_17.30.35.png)
 
@@ -71,7 +71,7 @@ Name に "dataware-tools" と入力し、"Single Page Web Applications" を選�
 この図の様に以下の項目を入力します
 
 * Name: `dataware-tools`
-* Identifier: `https://<dataware-toolsのデプロイ先URL>/`
+* Identifier: `https://<dataware-toolsのデプロイ先のドメイン名>/`
 
 ![](../../../.gitbook/assets/\_2021-06-21\_17.42.07.png)
 
