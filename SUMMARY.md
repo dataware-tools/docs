@@ -13,6 +13,7 @@
     * [3. デプロイ前の準備](manyuaru/kemanyuaru/insutrugaido/3-depuroino.md)
     * [4. Dataware-tools のデプロイ](manyuaru/kemanyuaru/insutrugaido/depuroimento.md)
   * [メンテナンスガイド](manyuaru/kemanyuaru/mentenansugaido/README.md)
+    * [ユーザアカウントの追加](manyuaru/kemanyuaru/mentenansugaido/yzaakauntono.md)
     * [ユーザの権限管理](manyuaru/kemanyuaru/mentenansugaido/python-tsrukitto.md)
     * [データベースの管理](manyuaru/kemanyuaru/mentenansugaido/dtabsuno.md)
 * [ユーザマニュアル](manyuaru/yzamanyuaru/README.md)
