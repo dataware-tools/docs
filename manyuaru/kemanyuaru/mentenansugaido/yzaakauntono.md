@@ -4,24 +4,24 @@ Dataware-tools のウェブアプリケーションで使用するユーザア�
 
 ### Auth0のユーザ管理ページを開く
 
-![](../../../.gitbook/assets/demo.dataware-tools.com\_launcher.png)
+![](../../../.gitbook/assets/demo.dataware-tools.com_launcher.png)
 
 トップページから `User manager` を開きます。
 
-![](../../../.gitbook/assets/demo.dataware-tools.com\_user-manager.png)
+![](../../../.gitbook/assets/demo.dataware-tools.com_user-manager.png)
 
-画面右上の `ADD USER` をクリックします。\
+画面右上の `ADD USER` をクリックします。
 これにより、Auth0 の管理ページに遷移します。
 
-![](../../../.gitbook/assets/manage.auth0.com\_dashboard\_us\_dataware-tools\_userss1.png)
+![](../../../.gitbook/assets/manage.auth0.com_dashboard_us_dataware-tools_userss1.png)
 
 ### Auth0 で新規ユーザアカウントを追加する
 
-![](../../../.gitbook/assets/manage.auth0.com\_dashboard\_us\_dataware-tools\_userss.png)
+![](../../../.gitbook/assets/manage.auth0.com_dashboard_us_dataware-tools_userss.png)
 
 メニューから `User Management` -> `Users` を選択します。
 
-![](<../../../.gitbook/assets/manage.auth0.com\_dashboard\_us\_dataware-tools\_userss (2).png>)
+![](<../../../.gitbook/assets/manage.auth0.com_dashboard_us_dataware-tools_userss (2).png>)
 
 `Create User` をクリックし、新しいユーザが使用するメールアドレスとパスワードを入力してください。
 
