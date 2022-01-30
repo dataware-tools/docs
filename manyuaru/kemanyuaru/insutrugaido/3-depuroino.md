@@ -6,7 +6,7 @@ Dataware-tools ではデータのメタ情報の保存先として MongoDB を�
 
 Dataware-tools のデプロイを行う前に MongoDB サーバを用意してクラスタからアクセスできる状態にしていただくか、以下のリンク先を参照して Dataware-tools のデプロイ先と同じクラスタに MongoDB のサーバをデプロイして下さい。
 
-{% embed url="https://github.com/bitnami/charts/tree/master/bitnami/mongodb" %}
+[https://github.com/bitnami/charts/tree/master/bitnami/mongodb](https://github.com/bitnami/charts/tree/master/bitnami/mongodb)
 
 ### MongoDB サーバへのユーザ登録
 

@@ -157,13 +157,11 @@ kubectl -n <デプロイ先の名前空間> get pods
 また、`READY` 列に表示されるコンテナの数が2以上になっていることを確認して下さい。\
 コンテナが1つしか存在していない場合は Istio の sidecar が inject されていない可能性があります。
 
-{% hint style="info" %}
 何か問題がある場合は、以下のコマンドにより詳しい状態を確認することができます:
 
 ```bash
 kubectl -n <デプロイ先の名前空間> describe pod <対象のPodの名前>
 ```
-{% endhint %}
 
 #### 3.2 サービス, Ingress の状態確認
 
