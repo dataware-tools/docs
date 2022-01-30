@@ -67,7 +67,7 @@ vim env/...  (*.env ファイルを編集)
 
 #### 2.1 権限のチェック
 
-デプロイの前に `kubectl` コマンドでデプロイ先の Kubernetes クラスタにアクセスできることを確認してください。\
+デプロイの前に `kubectl` コマンドでデプロイ先の Kubernetes クラスタにアクセスできることを確認してください。  
 また、以下のコマンドによりクラスタに任意のリソースを作成/削除できることを確認してください:
 
 ```bash
@@ -154,7 +154,7 @@ kubectl -n <デプロイ先の名前空間> get pods
 
 表示されたすべてのPodの状態が `Running` になっていることを確認します。
 
-また、`READY` 列に表示されるコンテナの数が2以上になっていることを確認して下さい。\
+また、`READY` 列に表示されるコンテナの数が2以上になっていることを確認して下さい。  
 コンテナが1つしか存在していない場合は Istio の sidecar が inject されていない可能性があります。
 
 何か問題がある場合は、以下のコマンドにより詳しい状態を確認することができます:
@@ -173,7 +173,7 @@ kubectl -n istio-system get service istio-ingressgateway
 
 `EXTERNAL IP` の部分が該当のIPアドレスです。
 
-IPアドレスが存在しない場合は[2.4](depuroimento.md#24-nijite-ingress-no)を参考に Ingress を作成して下さい。\
+IPアドレスが存在しない場合は[2.4](depuroimento.md#24-nijite-ingress-no)を参考に Ingress を作成して下さい。  
 その後、以下のコマンドにより Ingress の外部IPアドレスを取得します:
 
 ```
@@ -194,4 +194,4 @@ kubectl -n istio-system get ingress istio-ingressgateway
 
 Webブラウザ上で `https://<dataware-toolsのデプロイ先のドメイン名>/` にアクセスし、以下のような画面が表示されることを確認します。
 
-![](../../../.gitbook/assets/dev.tools.hdwlab.com\_launcher.png)
+![](../../../.gitbook/assets/dev.tools.hdwlab.com_launcher.png)
