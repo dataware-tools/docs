@@ -1,8 +1,10 @@
 {
   "pdf": {
-    "fontFamily": "IPAGothic"
+    "fontFamily": "ヒラギノ角ゴシック",
+    "embedFonts": true
   },
   "plugins": [
-    "honkit-plugin-encode-link-round-with-angle-brackets"
+    "honkit-plugin-encode-link-round-with-angle-brackets",
+    "katex-pro"
   ]
 }
