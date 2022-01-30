@@ -41,7 +41,7 @@ Dataware-tools のウェブアプリケーションで使用するユーザア�
 
 新規作成したユーザアカウントが他のユーザのデータへのアクセス権を制御できるようにするには、以下の部分の指示に従ってアカウントを特権化する必要があります。
 
-[インストールガイド \
--> 2.Auth0のテナントを作る \
--> 4.ユーザの作成](../insutrugaido/1-auth0-notenantoworu.md#41-auth0niyzawosuru) \
+[インストールガイド 
+-> 2.Auth0のテナントを作る 
+-> 4.ユーザの作成](../insutrugaido/1-auth0-notenantoworu.md#41-auth0niyzawosuru) 
 -> ※以下は特権ユーザに対してのみ実施する作業です
