@@ -11,7 +11,7 @@ Auth0 のテナントの作成は以下の手順で行うことができます�
 
 [Auth0: Secure access for everyone. But not just anyone.](https://auth0.com/jp)
 
-![](../../../.gitbook/assets/\_2021-06-21\_17.21.02.png)
+![](../../../.gitbook/assets/_2021-06-21_17.21.02.png)
 
 右上の「無料トライアル」をクリックし、必要な情報を入力してアカウントを作成します。
 
