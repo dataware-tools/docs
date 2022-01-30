@@ -1,5 +1,8 @@
 {
   "pdf": {
     "fontFamily": "IPAGothic"
-  }
+  },
+  "plugins": [
+    "honkit-plugin-encode-link-round-with-angle-brackets"
+  ]
 }
