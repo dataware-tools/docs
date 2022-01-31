@@ -2,7 +2,7 @@
 
 Dataware-tools are tools for researchers that enrich the value of data.
 
-![](.gitbook/assets/overview.png)
+![](.gitbook/assets/overview\_v2.png)
 
 The goal of this project is to create tools for a framework to achieve the following things:
 
@@ -24,16 +24,16 @@ This project is maintained by the following working-groups.
 
 Roles or contents of the repositories in this organization are listed below:
 
-| Repository Name | Contents                    |
-| -------------- | ------------------------- |
-| app-\*         | Frontend web-applications            |
-| api-\*         | Backend APIs for web-applications      |
-| docs           | This document                  |
-| manifests      | Manifest files for deployment          |
-| protocols      | API Specifications           |
-| pydtk          | Python toolkit             |
-| test-infra     | Infrastructure for Dev/Ops       |
-| web-deployment | Common CI/CD |
+| Repository Name | Contents                          |
+| --------------- | --------------------------------- |
+| app-\*          | Frontend web-applications         |
+| api-\*          | Backend APIs for web-applications |
+| docs            | This document                     |
+| manifests       | Manifest files for deployment     |
+| protocols       | API Specifications                |
+| pydtk           | Python toolkit                    |
+| test-infra      | Infrastructure for Dev/Ops        |
+| web-deployment  | Common CI/CD                      |
 
 Basically, web-applications in this organization depends on APIs separated into multiple repositories.\
 So most of the applications do not work standalone.\
