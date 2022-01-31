@@ -53,4 +53,4 @@ GitHub上のdataware-tools組織にあるリポジトリの主な内容は以下
 | web-deployment | GitHub Actions を使用したCI/CD |
 
 ウェブアプリは複数のバックエンドAPIに依存しているため、それぞれのアプリはスタンドアローンで使用することはできません。\
-アプリのインストール方法や利用手順などについては、「[Dataware-toolsを使ってみる](manyuaru/kemanyuaru/insutrugaido/depuroimento.md)」の章を参照してください。
+アプリのインストール方法や利用手順などについては、「[Dataware-toolsを使ってみる](manyuaru/kemanyuaru/insutrugaido/)」の章を参照してください。
