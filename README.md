@@ -22,10 +22,18 @@ This project is maintained by the following working-groups.
 
 ### Repositories
 
-Part of repositories in this organization has a specific prefix as follows:
+Roles or contents of the repositories in this organization are listed below:
 
-* `api-`: Backend APIs for web-applications
-* `app-`: Frontend web-applications
+| Repository Name | Contents                    |
+| -------------- | ------------------------- |
+| app-\*         | Frontend web-applications            |
+| api-\*         | Backend APIs for web-applications      |
+| docs           | This document                  |
+| manifests      | Manifest files for deployment          |
+| protocols      | API Specifications           |
+| pydtk          | Python toolkit             |
+| test-infra     | Infrastructure for Dev/Ops       |
+| web-deployment | Common CI/CD |
 
 Basically, web-applications in this organization depends on APIs separated into multiple repositories.\
 So most of the applications do not work standalone.\
