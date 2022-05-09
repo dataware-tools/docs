@@ -23,3 +23,4 @@
     * [データの閲覧](manyuaru/yzamanyuaru/webapurikshon/webuapurikshon.md)
     * [メタデータの出力](manyuaru/yzamanyuaru/webapurikshon/export-metadata.md)
   * [Pythonツールキット](manyuaru/yzamanyuaru/pythontsrukitto.md)
+* [開発者向けマニュアル](manyuaru/kemanyuaru-1.md)
