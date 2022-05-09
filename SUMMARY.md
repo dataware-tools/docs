@@ -12,3 +12,4 @@
 * [Users' Guides](manuals/users-guides/README.md)
   * [Web application](manuals/users-guides/web-application.md)
   * [Python toolkit](manuals/users-guides/python-toolkit.md)
+* [Developers' Guides](manuals/developers-guides.md)
