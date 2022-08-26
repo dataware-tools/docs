@@ -19,3 +19,7 @@
 ### Relationship of Repositories
 
 [https://github.com/dataware-tools/docs/blob/main/repositories-relationship.md](https://github.com/dataware-tools/docs/blob/main/repositories-relationship.md)
+
+### Note: Using NPM Packages
+
+Some repositories in this project use npm packages maintained under Github Packages (e.g. `app-user-manager`). You have to have completed Github's PAT (personal access token) settings to install packages under Github Packages. For more information, refer to  [Github Docs](https://docs.github.com/ja/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-with-a-personal-access-token).
