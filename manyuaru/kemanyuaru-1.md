@@ -19,3 +19,7 @@
 ### 各リポジトリの関係性
 
 [https://github.com/dataware-tools/docs/blob/main/repositories-relationship.md](https://github.com/dataware-tools/docs/blob/main/repositories-relationship.md)
+
+### NPM パッケージ利用時の注意点
+
+本プロジェクトのリポジトリ内では、Github Packages 管理下のパッケージを利用していることがあります（`app-user-manager` など）。Github Packages 管理下のパッケージをインストールするには、Github の個人アクセストークンが設定されている必要があります。詳細は [Github Docs](https://docs.github.com/ja/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#authenticating-with-a-personal-access-token) を参照して下さい。
